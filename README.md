@@ -24,5 +24,6 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <br/>
   <br/>
+  ## Plataformas de aprendizado:
 <img align="center" alt="html5" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
 </div>
